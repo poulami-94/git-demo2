@@ -1,3 +1,3 @@
 # new project
-this git-demo2 was created from local system
-created by poulami paul
+This git-demo2 was created from local system.
+Created by poulami paul.
